@@ -107,8 +107,9 @@ span{
       flex-basis: 35%;
 }
 .about-col-1 img{
-    width: 100%;
+    width: 80%;
     border-radius: 10px;
+    height: 80vh;
 }
 
 .about-col-2{
